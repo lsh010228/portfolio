@@ -64,35 +64,48 @@
 
 ※ 프로젝트 상세 > [바로가기](https://github.com/lsh010228/DL_FACE_REC)  
 
-## 3. 프로젝트 C
+## 3. 이커머스 기업 비즈니스 전략 제안
 * 문제정의  
-```xxx```  
+```
+· 중국의  ‘알리익스프레스, 테무, 쉬인’  이커머스 플랫폼이 초저가 상품과 막대한 광고전략을 펼쳐 국내 사용자 수가 급증
+· 국내 이커머스 고객의 불가피한 이탈이 예상돼 자구책 마련을 위한 비즈니스 전략 필요
+```  
 * 수행역할  
-```xxx```  
+```
+· Pandas, matplotlib, seaborn을 활용하여 데이터 전처리 및 시각화 분석
+· RFM 기법을 통한 고객 세분화 및 비즈니스 전략 도출
+```  
 * 기대효과 및 Lesson and Learned  
-```xxx```<br>
+```
+<기대효과>
+· 지역 및 고객별 특징을 고려한 경영전략을 통해 고객 활성화 및 매출 증진 효과 기대
+<Lesson adn Learned>
+· 고객별 특성에 따라 고객 세분화를 통해 효과적인 마케팅 방법에 대한 이해와 경험
+· 가공 데이터의 한계로 RFM 분석 이외에 코호트 분석, 재구매율에 대한 분석에 대한 해석의 어려움
+```
+<br>
 <br>
 
-※ 프로젝트 상세 및 Code - [바로가기](https://github.com/DAjihwanPark/portfolio/tree/main/프로젝트A)
+※ 프로젝트 상세 및 Code - [바로가기](https://github.com/lsh010228/Final_project)
 
 ## 4. 프로젝트 D
 * 문제정의  
-```xxx```  
+```
+· 이디야 커피는 스타벅스 커피 매장이 위치하는 곳에 매장을 위치시키는 미투 마케팅 전략을 사용하는가
+```  
 * 수행역할  
-```xxx```  
-* 기대효과 및 Lesson and Learned  
-```xxx```<br>
+```
+· BeautifulSoup, Selenium을 이용해 웹 크롤링을 통한 스타벅스와 이디야의 매장 위치 정보 데이터 구축
+· Folium을 이용한 매장별 지도 시각화 및 Tableau를 통한 대시보드 제작 
+```  
+* Lesson and Learned  
+```
+· BeautifulSoup, Selenium을 이용한 웹 데이터 수집 및 정제 과정 경험
+· EDA 과정을 통한 가설 수립 및 검증
+```
+<br>
 <br>
 
-※ 프로젝트 상세 및 Code - [바로가기](https://github.com/DAjihwanPark/portfolio/tree/main/프로젝트A)
+<!--※ 프로젝트 상세 및 Code - [바로가기](https://github.com/DAjihwanPark/portfolio/tree/main/프로젝트A)-->
 
-## 5. 프로젝트 E
-* 문제정의  
-```xxx```  
-* 수행역할  
-```xxx```  
-* 기대효과 및 Lesson and Learned  
-```xxx```<br>
-<br>
 
-※ 프로젝트 상세 및 Code - [바로가기](https://github.com/DAjihwanPark/portfolio/tree/main/프로젝트A)
